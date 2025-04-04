@@ -1,2 +1,2 @@
-# Linked-List-Practice-in-Java
-A collection of Java exercises focused on mastering linked list operations such as adding, removing, reversing, and counting elements using both iterative and recursive methods.
+# Linked List Practice in Java
+This project features beginner-to-intermediate Java exercises that explore core linked list operations, including insertion, deletion, search, reversal, and counting elements both iteratively and recursively. It reinforces key computer science concepts such as pointers, recursion, and object-oriented programming. Designed to strengthen problem-solving skills and deepen understanding of data structures through hands-on implementation.
